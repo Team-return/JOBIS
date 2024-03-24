@@ -72,7 +72,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:9.1.0"],\
           ["eslint-plugin-prettier", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:5.1.3"],\
           ["eslint-plugin-react-hooks", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:4.6.0"],\
-          ["eslint-plugin-react-refresh", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:0.4.5"],\
+          ["eslint-plugin-react-refresh", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:0.4.6"],\
           ["eslint-plugin-unicorn", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:50.0.1"],\
           ["husky", "npm:8.0.3"],\
           ["lint-staged", "npm:15.2.2"],\
@@ -13948,17 +13948,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["eslint-plugin-react-refresh", [\
-      ["npm:0.4.5", {\
-        "packageLocation": "./.yarn/cache/eslint-plugin-react-refresh-npm-0.4.5-3f2488eb7c-f1526f5582.zip/node_modules/eslint-plugin-react-refresh/",\
+      ["npm:0.4.6", {\
+        "packageLocation": "./.yarn/cache/eslint-plugin-react-refresh-npm-0.4.6-e117356250-104501b151.zip/node_modules/eslint-plugin-react-refresh/",\
         "packageDependencies": [\
-          ["eslint-plugin-react-refresh", "npm:0.4.5"]\
+          ["eslint-plugin-react-refresh", "npm:0.4.6"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:0.4.5", {\
-        "packageLocation": "./.yarn/__virtual__/eslint-plugin-react-refresh-virtual-5ba9c996ea/0/cache/eslint-plugin-react-refresh-npm-0.4.5-3f2488eb7c-f1526f5582.zip/node_modules/eslint-plugin-react-refresh/",\
+      ["virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:0.4.6", {\
+        "packageLocation": "./.yarn/__virtual__/eslint-plugin-react-refresh-virtual-dafd429261/0/cache/eslint-plugin-react-refresh-npm-0.4.6-e117356250-104501b151.zip/node_modules/eslint-plugin-react-refresh/",\
         "packageDependencies": [\
-          ["eslint-plugin-react-refresh", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:0.4.5"],\
+          ["eslint-plugin-react-refresh", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:0.4.6"],\
           ["@types/eslint", null],\
           ["eslint", "npm:8.57.0"]\
         ],\
@@ -17214,7 +17214,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:9.1.0"],\
           ["eslint-plugin-prettier", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:5.1.3"],\
           ["eslint-plugin-react-hooks", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:4.6.0"],\
-          ["eslint-plugin-react-refresh", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:0.4.5"],\
+          ["eslint-plugin-react-refresh", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:0.4.6"],\
           ["eslint-plugin-unicorn", "virtual:0f900c532def39d3661b294c63c25cb192443e8e260e7bea5cb02c869c3e6e66291400e226f22c507c8abc06fa67966b9df259c364ea5e7ac15e7214331dc16d#npm:50.0.1"],\
           ["husky", "npm:8.0.3"],\
           ["lint-staged", "npm:15.2.2"],\
